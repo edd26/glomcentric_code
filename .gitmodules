@@ -1,0 +1,3 @@
+[submodule "FUImaging"]
+	path = FUImaging
+	url = https://github.com/jansoe/FUImaging.git
